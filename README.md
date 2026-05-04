@@ -19,6 +19,4 @@ All historical financial data : Balance Sheet, Income Statement and Cash flow ar
 * **LBO Framework:** Structured debt paydown schedules and exit sensitivity matrices (9.0x - 11.0x EBITDA multiples).
 
 
-## How to Navigate
-* `Adidas_Model_v1.xlsx`: Main financial engine including DCF, LBO, and DuPont sheets.
-* `Data_Normalization.ipynb`: Python script for pre-processing raw financial data.
+
