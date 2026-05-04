@@ -1,4 +1,4 @@
-# Investment-Valuation-and-LBO---Adidas
+
 
 # Investment Valuation & LBO Analysis: Adidas AG
 
